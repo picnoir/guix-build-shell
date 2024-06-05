@@ -1,4 +1,4 @@
-# nix-build-shell
+# guix-build-shell
 
 Sorry no documentation at this time.
 Maybe later...
